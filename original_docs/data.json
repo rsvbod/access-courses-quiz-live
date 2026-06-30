@@ -1,0 +1,152 @@
+{
+  "questionsText": "1. Interest-Based Questions (The \"What do you like?\" filter)\n\nThese uncover the raw subjects or activities the visitor naturally gravitates toward.\n\nQ1: When you have free time to read, watch a documentary, or dive into a deep rabbit hole online, which topic naturally grabs your attention?\n\nQ2: Think about a time you felt genuinely accomplished after completing a task. What kind of task was it?\n\nQ3: If you were handed a budget to learn a brand-new practical skill this weekend, which of these sounds most exciting?\n\nQ4: Which school subject or general field of study did you actually look forward to, even if you didn't pursue it further at the time?\n\n2. Environment & Lifestyle Questions (The \"Where do you belong?\" filter)\n\nThese match the visitor's personality and physical comfort levels to their future workplace layout.\n\nQ5: Picture your ideal working layout. Where do you see yourself feeling most focused and energized?\n\nQ6: How do you naturally prefer your daily workflow pace to look?\n\nQ7: When it comes to interacting with people during your shift, what is your preferred balance?\n\nQ8: How do you handle high-pressure, rapidly shifting situations or sudden emergencies?\n\n3. Motivational & Core Values Questions (The \"Why do you work?\" filter)\n\nThese uncover the underlying emotional driver or ultimate career reward the visitor is looking for.\n\nQ9: If you look ahead 5 years, what is the single most important reward or outcome you want to get from your new career?\n\nQ10: When you think about making an impact on the world or your local community, how do you want to deliver it?\n\nQ11: Which of these career safety blankets matters most to you right now?\n\n4. Affinity \"Gut-Check\" Statements (The \"Does this sound like you?\" filter)\n\nThese act as direct psychological mirrors. If a user nods along to these, they belong in that specific course pathway.\n\nStatement A: \"I get deeply satisfied when I can break a complex, frustrating problem down into logical steps and make something work.\" (Points to: Computer Science / Business)\n\nStatement B: \"I stay incredibly calm when things get chaotic around me, and I naturally focus on making sure the people around me feel safe and cared for.\" (Points to: Nursing / Midwifery / Health Professions)\n\nStatement C: \"I am highly analytical. I don't like guesswork—I want to see the raw data, run the experiment, and understand the empirical truth.\" (Points to: Science)\n\nStatement D: \"I am fascinated by human behavior, history, and how systemic social or political issues shape the way our communities live.\" (Points to: Humanities & Social Science)\n\nStatement E: \"I have a hyper-tuned ear for detail. I constantly notice the audio production in media and want to shape how things sound.\" (Points to: Music Technology)\n\n🛠️ How to Structure the Multiple-Choice Logic\n\nIf you are building this into a website widget or form, you can structure the multiple-choice options so that each letter directly tallies a score toward a specific course cluster:\n\nOption A maps to Tech/Business: (Computer Science, Business & Management)\n\nOption B maps to Frontline Healthcare: (Nursing, Midwifery)\n\nOption C maps to Technical/Empirical fields: (Science, Music Technology)\n\nOption D maps to Allied Health & Therapeutics: (Health Professions)\n\nOption E maps to Social/Creative fields: (Humanities & Social Science)\n\n\n\n",
+  "matrixData": [
+    {
+      "Course Subject": "Computer Science",
+      "Potential Student Interests": "Coding, technology trends, logic puzzles, software building, gaming mechanics, hardware optimization.",
+      "Career Work Environments": "Tech startups, corporate offices, software houses, remote/home office, data centers.",
+      "Motivations for Entering Career": "High earning potential, remote flexibility, a passion for building digital infrastructure, solving complex logical puzzles.",
+      "Sample Affinity Statements": "\"I love breaking down complex problems and writing logical solutions.\"\n\"I want to build software that automates and simplifies tasks.\"",
+      "Potential UK Salary Range (Annual)": "£30,000 – £85,000+ (Entry developer to Senior Architect)"
+    },
+    {
+      "Course Subject": "Nursing",
+      "Potential Student Interests": "Human anatomy, healthcare technology, community volunteering, wellness, active team-based environments.",
+      "Career Work Environments": "NHS or private hospitals, community clinics, GP surgeries, residential care homes, military bases.",
+      "Motivations for Entering Career": "Desire to save lives, job security, diverse clinical specialisms, a profound sense of public service and human connection.",
+      "Sample Affinity Statements": "\"I stay calm in high-pressure situations and care about patient well-being.\"\n\"I want a fast-paced career where no two days are the same.\"",
+      "Potential UK Salary Range (Annual)": "£28,400 – £50,000+ (Band 5 staff nurse up to Band 8 Advanced Practitioner)"
+    },
+    {
+      "Course Subject": "Science",
+      "Potential Student Interests": "Laboratory experiments, environmental research, data analytics, chemistry, microscopy, wildlife conservation.",
+      "Career Work Environments": "Research laboratories, pharmaceutical companies, field research sites, universities, quality control units.",
+      "Motivations for Entering Career": "Advancing human knowledge, discovering medical breakthroughs, solving climate/ecological problems, love for empirical evidence.",
+      "Sample Affinity Statements": "\"I am driven to understand how the physical and natural world operates.\"\n\"I enjoy conducting controlled experiments and analyzing raw data.\"",
+      "Potential UK Salary Range (Annual)": "£25,000 – £60,000+ (Lab Technician to Senior Research Scientist)"
+    },
+    {
+      "Course Subject": "Health Professions",
+      "Potential Student Interests": "Therapeutic practices, biological sciences, physical rehabilitation, mental health, community wellness.",
+      "Career Work Environments": "Physiotherapy clinics, occupational therapy bays, outpatient centers, sports complexes, community health teams.",
+      "Motivations for Entering Career": "Helping individuals regain physical or cognitive independence, offering holistic care outside of traditional nursing paths.",
+      "Sample Affinity Statements": "\"I want to help people physically recover and regain their independence.\"\n\"I am fascinated by how lifestyle factors impact long-term health.\"",
+      "Potential UK Salary Range (Annual)": "£28,400 – £48,000 (Typical Allied Health Professional bands)"
+    },
+    {
+      "Course Subject": "Midwifery",
+      "Potential Student Interests": "Neonatal care, reproductive health, family support systems, pregnancy wellness, physiological education.",
+      "Career Work Environments": "Maternity wards, birthing centers, neonatal intensive care units (NICU), domestic home-visit settings.",
+      "Motivations for Entering Career": "Guiding families through life-changing transitions, championing women's health choices, bringing new life into the world safely.",
+      "Sample Affinity Statements": "\"I want to support and empower women through pregnancy and childbirth.\"\n\"I am highly observant and deeply empathetic during vulnerable moments.\"",
+      "Potential UK Salary Range (Annual)": "£28,400 – £55,000 (Band 5 up to Senior/Consultant Midwife)"
+    },
+    {
+      "Course Subject": "Music Technology",
+      "Potential Student Interests": "Sound engineering, digital audio workstations (DAWs), acoustics, instrument synthesis, live sound mixing, media composition.",
+      "Career Work Environments": "Recording studios, live concert venues, post-production houses, game design studios, broadcasting stations.",
+      "Motivations for Entering Career": "Obsession with sonic perfection, translating emotion into audio, working alongside creative talent, shaping modern entertainment media.",
+      "Sample Affinity Statements": "\"I hear details in music production that most people completely miss.\"\n\"I want to shape the soundscapes of films, video games, or albums.\"",
+      "Potential UK Salary Range (Annual)": "£20,000 – £50,000+ (Highly variable; often freelance or contract-based)"
+    },
+    {
+      "Course Subject": "Humanities & Social Science",
+      "Potential Student Interests": "History, literature, sociological trends, politics, cultural anthropology, reading, community advocacy.",
+      "Career Work Environments": "Social service offices, civil service sectors, NGOs, museums, heritage sites, policy think-tanks, secondary schools.",
+      "Motivations for Entering Career": "Desiring to fix systemic social issues, preserving cultural history, influencing public policy, teaching future generations about society.",
+      "Sample Affinity Statements": "\"I am fascinated by how history, culture, and politics shape our daily lives.\"\n\"I want to advocate for marginalized communities and drive social change.\"",
+      "Potential UK Salary Range (Annual)": "£24,000 – £45,000+ (Varies greatly: Social Work, Civil Service, or Heritage paths)"
+    },
+    {
+      "Course Subject": "Business & Management",
+      "Potential Student Interests": "Economics, corporate strategy, marketing metrics, financial markets, leadership, entrepreneurship.",
+      "Career Work Environments": "Corporate headquarters, financial institutions, consulting firms, remote management spaces, retail offices.",
+      "Motivations for Entering Career": "Building a startup, driving organizational efficiency, financial independence, leading and mentoring cross-functional teams.",
+      "Sample Affinity Statements": "\"I enjoy organizing resources, optimizing processes, and managing projects.\"\n\"I like analyzing market trends to make strategic commercial decisions.\"",
+      "Potential UK Salary Range (Annual)": "£26,000 – £70,000+ (Junior Coordinator to Senior Corporate Manager)"
+    }
+  ],
+  "outcomesData": [
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "Outcome Profile ID",
+      "__EMPTY": "Matched Access Diploma Course",
+      "__EMPTY_1": "Visitor Persona & Core Traits",
+      "__EMPTY_2": "Primary Quiz Selections",
+      "__EMPTY_3": "Dynamic Headline for Visitor",
+      "__EMPTY_4": "Call-to-Action (CTA) Next Steps",
+      "__EMPTY_5": "Immediate Email/Nurture Trigger"
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-CS01",
+      "__EMPTY": "Computer Science",
+      "__EMPTY_1": "The Analytical Builder: Highly logical, values autonomy/remote work, loves solving system puzzles, driven by high earning potential and modern tech environments.",
+      "__EMPTY_2": "Predominantly Option A responses across interests, workspace preference (remote/office), and problem-solving affinity.",
+      "__EMPTY_3": "Your Mind is Built for Code: Step into a High-Value Tech Career.",
+      "__EMPTY_4": "Download the Computer Science Syllabus & Speak with a Tech Enrolment Advisor.",
+      "__EMPTY_5": "Send 3-part email series: 1. Tech job market trends 2. Student success stories from non-coding backgrounds 3. Financing options."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-NS02",
+      "__EMPTY": "Nursing",
+      "__EMPTY_1": "The Frontline Guardian: Resilient, empathetic, thrives in high-pressure team settings, values job security and deep interpersonal public service connection.",
+      "__EMPTY_2": "Predominantly Option B responses across core traits, workspace preference (NHS/Hospitals), and emergency composure.",
+      "__EMPTY_3": "Answer Your True Calling: Transform Lives on the Frontlines of Healthcare.",
+      "__EMPTY_4": "Check University Degree Entry Requirements for Nursing & Book a Career Call.",
+      "__EMPTY_5": "Send 3-part email series: 1. Navigating NHS Band 5 salary/benefits 2. Balancing shift work with online learning 3. Interview tips."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-SC03",
+      "__EMPTY": "Science",
+      "__EMPTY_1": "The Empirical Investigator: Driven by fact, data, and curiosity. Prefers controlled environments like labs, wants a career focused on discovery, pharmacy, or research.",
+      "__EMPTY_2": "Predominantly Option C responses across interest fields, empirical analytics preference, and research environment options.",
+      "__EMPTY_3": "Unlock the Universe: Advance Human Knowledge with a Career in Science.",
+      "__EMPTY_4": "View the Science Diploma Core Modules & Talk to a Learning Advisor.",
+      "__EMPTY_5": "Send 3-part email series: 1. Choosing your branch (Biochem vs Chemistry vs Environmental) 2. How lab practicals work 3. University pathways."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-HP04",
+      "__EMPTY": "Health Professions",
+      "__EMPTY_1": "The Rehabilitative Healer: Loves biology and wellness but prefers long-term lifestyle/physical rehabilitation care over acute emergency nursing.",
+      "__EMPTY_2": "Predominantly Option D responses across interest profiles, Allied Health settings (Physio/Occupational clinics), and rehabilitation values.",
+      "__EMPTY_3": "Empower Longevity & Recovery: Become an Essential Allied Health Professional.",
+      "__EMPTY_4": "Explore Physiotherapy, Radiography & Podiatry Pathways with an Expert.",
+      "__EMPTY_5": "Send 3-part email series: 1. Overview of Allied Health careers 2. Graduate salary expectations 3. Flexible study timelines."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-MW05",
+      "__EMPTY": "Midwifery",
+      "__EMPTY_1": "The Empowering Advocate: Intensely observant, deeply empathetic, fascinated by reproductive health, seeks a deep vocational focus bringing new life into the world safely.",
+      "__EMPTY_2": "Combination of Option B & D responses, specifically selecting neonatal care, pregnancy wellness, and women's health choices.",
+      "__EMPTY_3": "Support New Beginnings: Step into the Vital, Rewarding World of Midwifery.",
+      "__EMPTY_4": "Download Midwifery Course Guide & Check NHS Student Funding Eligibility.",
+      "__EMPTY_5": "Send 3-part email series: 1. A day in the life of a modern Midwife 2. Entry requirements for competitive uni spots 3. Student support groups."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-MT06",
+      "__EMPTY": "Music Technology",
+      "__EMPTY_1": "The Sonic Architect: Highly creative yet technically minded, possesses an acute ear for details, driven to shape the soundscapes of media, music, or entertainment.",
+      "__EMPTY_2": "Predominantly Option C & E mixed responses, explicitly selecting sound engineering, studio environments, and acoustic media production filters.",
+      "__EMPTY_3": "Shape the Future of Sound: Launch Your Career in Professional Music Tech.",
+      "__EMPTY_4": "Watch Our Music Technology Graduate Showcase & Review Studio Requirements.",
+      "__EMPTY_5": "Send 3-part email series: 1. Modern audio engineering software requirements 2. Monetizing sound design 3. University degree choices."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-HS07",
+      "__EMPTY": "Humanities & Social Science",
+      "__EMPTY_1": "The Social Catalyst: Deep interest in history, human behavior, culture, and public policy. Wants a career advocating for communities, social justice, or education.",
+      "__EMPTY_2": "Predominantly Option E responses emphasizing community wellness, public policy, NGOs, and human cultural evolution factors.",
+      "__EMPTY_3": "Drive Meaningful Change: Shape Communities through Humanities & Social Sciences.",
+      "__EMPTY_4": "Schedule a Consultation with a Social Science Career Specialist.",
+      "__EMPTY_5": "Send 3-part email series: 1. Diverse career paths (Social work, teaching, politics) 2. Essay writing tools for adults 3. Financial aid rules."
+    },
+    {
+      "Access Courses Online - Quiz Outcome Matrix & Lead Nurturing Guide": "OUT-BM08",
+      "__EMPTY": "Business & Management",
+      "__EMPTY_1": "The Strategic Leader: Commercially minded, values financial independence, entrepreneurship, organizational layout optimization, and team development metrics.",
+      "__EMPTY_2": "Combination of Option A & E responses emphasizing economics, strategic consulting, leadership, and financial market outcomes.",
+      "__EMPTY_3": "Lead with Impact: Fast-Track to Executive & Entrepreneurial Success.",
+      "__EMPTY_4": "Apply for Your Interest-Free Business Diploma Payment Plan Today.",
+      "__EMPTY_5": "Send 3-part email series: 1. The ROI of an online Business Diploma 2. Developing managerial leadership skills 3. Networking groups."
+    }
+  ]
+}
