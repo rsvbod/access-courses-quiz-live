@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/agntsvgu/public_html/
+    - export DEPLOYPATH=/home/agntsvgu/bod.casa-rustica.co.uk
     - /bin/rsync -avz dist/ $DEPLOYPATH
